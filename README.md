@@ -19,12 +19,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I'm a Crypto Artist between all the platforms I can use to sell my arts, I want it to be <a href="https://foundation.app">Foundation App</a>. 
+I'm a Crypto Artist and between all the platforms I can use to sell my arts, I wanted it to be Foundation. 
   
-Because you have to be either invited or upvote by the community to be artist on the platform, I dicided to create a little game to help to succed in this quest. 
+Because you have to be either invited or upvote by the community to be an artist on the platform, I decided to create a little game to help succed in this quest. 
   
-This game was made thanks to <a href="https://github.com/wayou">@wayou</a> and <a href="https://github.com/vianroyal">@vianroyal</a> with their incredible works which can be found <a href="https://github.com/wayou/t-rex-runner">here</a> and <a href="https://github.com/vianroyal/t-rex-runner">there</a>.
+I made this game thanks to <a href="https://github.com/wayou">@wayou</a> and <a href="https://github.com/vianroyal">@vianroyal</a> and their incredible works which can be found <a href="https://github.com/wayou/t-rex-runner">here</a> and <a href="https://github.com/vianroyal/t-rex-runner">there</a>.
   
-Enjoy the game the game and if you want to know more about my art, visit my website : <a href="https://lavoisin.art">lavoisin.art</a>
+Enjoy the game and if you want to know more about my art, visit my website : <a href="https://lavoisin.art">lavoisin.art</a> ❤️
     <br />
     <br />
