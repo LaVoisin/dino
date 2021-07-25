@@ -17,7 +17,7 @@
     <br />
   
 <!-- ABOUT THE PROJECT -->
-## About The Game
+## About The Project
 
 I'm a Crypto Artist between all the platforms I can use to sell my arts, I want it to be <a href="https://foundation.app">VFoundation App</a>. 
   
