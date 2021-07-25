@@ -8,7 +8,7 @@
   <h3 align="center">La Voisin's Foundation Dino</h3>
 
   <p align="center">
-    A game dedicate to help La Vosin to get upvote in <a href="https://foundation.app">VFoundation App</a>
+    A game dedicate to help La Vosin to get upvote in <a href="https://foundation.app">Foundation App</a>
     <br />
     <br />
     <br />
