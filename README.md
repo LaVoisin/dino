@@ -25,6 +25,6 @@ Because you have to be either invited or upvote by the community to be an artist
   
 I made this game thanks to <a href="https://github.com/wayou">@wayou</a> and <a href="https://github.com/vianroyal">@vianroyal</a> and their incredible works which can be found <a href="https://github.com/wayou/t-rex-runner">here</a> and <a href="https://github.com/vianroyal/t-rex-runner">there</a>.
   
-Enjoy the game and if you want to know more about my art, visit my website : <a href="https://lavoisin.art">lavoisin.art</a> ❤️
+Enjoy the game and if you want to know more about my art, please visit my website : <a href="https://lavoisin.art">lavoisin.art</a>
     <br />
     <br />
