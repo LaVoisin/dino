@@ -12,7 +12,7 @@
     <br />
     <br />
     <br />
-    <a href="https://lavoisin.art/La-Voisin-s-Foundation-Dino-c2cfbc541dd24375ad0c2c91e12323d2">Play the game</a>
+    <a href="https://lavoisin.art/Play-La-Voisin-s-Foundation-Dino-c2cfbc541dd24375ad0c2c91e12323d2">Play the game</a>
     <br />
     <br />
   
